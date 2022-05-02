@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'NYEF POkhara'
+project = 'NYEF Pokhara'
 copyright = '2022, nyefpokhara'
 author = 'Krishesh shrestha'
 
