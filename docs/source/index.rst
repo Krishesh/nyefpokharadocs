@@ -15,6 +15,6 @@ Contents
 
 .. toctree::
 
-   superadmin
-   usage
-   api
+    superadmin
+    usage
+    api
