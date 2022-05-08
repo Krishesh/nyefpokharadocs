@@ -136,7 +136,7 @@ Get in touch Config File
 
 
 NYEF Pokhara Social Network Config File 
-------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `config`_
@@ -158,7 +158,7 @@ NYEF Pokhara Social Network Config File
 
 
 COOL FACTS Config File 
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `config`_
@@ -180,7 +180,7 @@ COOL FACTS Config File
 
 
 About Us Config File 
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `config`_ and Scrool to E. About Us
@@ -200,7 +200,7 @@ About Us Config File
 
 
 Our Vision Config File 
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `config`_ and Scrool to F. Our Vision
@@ -220,7 +220,8 @@ Our Vision Config File
 
 
 HOME EVENT Config File 
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 1. go to `config`_ and  Scrool to G. HOME EVENT
@@ -241,7 +242,7 @@ HOME EVENT Config File
 
 
 Description of all Pages Config File 
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `config`_ and Scrool to I.Description of all Pages
@@ -261,7 +262,7 @@ Description of all Pages Config File
 
 
 Hero image of all Pages Config File 
-------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `config`_ Scroll to  J. Hero image of all Pages 
