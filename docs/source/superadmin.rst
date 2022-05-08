@@ -86,7 +86,7 @@ Add Blog Category
 
 
 General Config File 
-------------------
+------------------------------------
 
 
 1. go to `config`_
@@ -104,6 +104,175 @@ General Config File
 
 3. Save It
 
+
+
+
+Get in touch Config File 
+------------------------------------
+
+
+1. go to `config`_
+
+
+2. scroll nad ho to Get in Touch Option
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+2. Change the .Get in touch Data in the Form 
+
+3. Save It
+
+
+NYEF POKHARA SOCIAL NETWORK Config File 
+------------------------------------------------------
+
+
+1. go to `config`_
+
+2. Scrool and Go to C. NYEF social Network
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+2. Change the NYEF social Network Data in the Form 
+
+3. Save It
+
+
+COOL FACTS Config File 
+------------------------------------
+
+
+1. go to `config`_
+
+
+2. Scrool to D. Cool Facts 
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+3. Change the Cool Facts  Data in the Form 
+
+4. Save It
+
+
+About Us Config File 
+------------------------------------
+
+
+1. go to `config`_ and Scrool to E. About Us
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+2. Change the About Us Data in the Form 
+
+3. Save It
+
+
+Our Vision Config File 
+------------------------------------
+
+
+1. go to `config`_ and Scrool to F. Our Vision
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+2. Change the Our Vision Data in the Form 
+
+3. Save It
+
+
+HOME EVENT Config File 
+------------------------------------
+
+
+1. go to `config`_ and  Scrool to G. HOME EVENT
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+2. Change the .HOME EVENT Data in the Form 
+
+3. Save It
+
+
+
+Description of all Pages Config File 
+------------------------------------
+
+
+1. go to `config`_ and Scrool to I.Description of all Pages
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+2. Change the Description of all Pages Data in the Form 
+
+3. Save It
+
+
+Hero image of all Pages Config File 
+------------------------------------------------------
+
+
+1. go to `config`_ Scroll to  J. Hero image of all Pages 
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+2. Change the Hero image of all Pages  Data in the Form 
+
+3. Save It
 
 
 
