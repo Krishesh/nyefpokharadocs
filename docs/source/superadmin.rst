@@ -18,6 +18,7 @@ To create user there you should be super admin first
     :class: with-shadow
     :scale: 100
     :align: center
+    :height: 100px
     
 
 2. go to `Create User`_
@@ -28,6 +29,7 @@ To create user there you should be super admin first
     :class: with-shadow
     :scale: 100
     :align: center
+    :height: 100px
 
 
 3. Fill the Form (username/email and password) and save the user
@@ -41,6 +43,7 @@ To create user there you should be super admin first
     :class: with-shadow
     :scale: 100
     :align: center
+    :height: 100px
 
 
 5. search the member you want to claim
@@ -54,6 +57,7 @@ To create user there you should be super admin first
     :target: https://nyefpokhara.org/admin/index/member
     :class: with-shadow   
     :scale: 100
+    :height: 100px
     
     
 
