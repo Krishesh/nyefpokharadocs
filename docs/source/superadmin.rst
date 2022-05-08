@@ -24,7 +24,7 @@ To create user there you should be super admin first
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/create_user_profile.jpg
     :alt: Create User
     :target: https://www.nyefpokhara.org/admin/auth/user/add/
-    :scale: 100
+    :scale: 525000
     :align: center
 
 
