@@ -1,10 +1,19 @@
 Super-admin
 ===========
 
+
+
+.. _super_users_docs:
+
+
+Member Content
+--------------------------
+
+
 .. _create_user:
 
 Create User and claim user
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To create user there you should be super admin first
 
@@ -16,7 +25,7 @@ To create user there you should be super admin first
     :alt: Login page
     :target: https://www.nyefpokhara.org/admin
     :scale: 100%
-    :align: center
+  
     
 
 2. go to `Create User`_
@@ -25,8 +34,8 @@ To create user there you should be super admin first
     :alt: Create User
     :target: https://www.nyefpokhara.org/admin/auth/user/add/
     :scale: 100%
-    :align: center
 
+    
 
 3. Fill the Form (username/email and password) and save the user
 
@@ -57,7 +66,7 @@ To create user there you should be super admin first
 
 
 Check Member Id Request
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Go to `Member request`_
 
@@ -73,7 +82,7 @@ Check Member Id Request
 2. change the status and follow the  :ref:`create_user`
 
 Create Member Profile
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1 GO to  `Member List`_ and ADD MEMBER `Add Member`_
 
@@ -135,8 +144,11 @@ Delete New NGC Members
 2. Delete the member and arrange the NGC  member Sort Order  
 
 
+Blog Content
+------------
+
 Add Blog Category
------------------
+^^^^^^^^^^^^^^^^^^
 
 
 1. go to `Add Blog Category`_
@@ -145,8 +157,9 @@ Add Blog Category
 
 3. Enter Title and set Visibility and Save it
 
+
 Filter Blog Comment
--------------------
+^^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `Filter Blog Comment`_
