@@ -119,7 +119,8 @@ Filter Blog Comment
 CONFIG FILE
 -----------------
 
-All the config file for Genral ooption 
+
+All the config file for Genral option ,get in touch,social media links, Cool facts , about us and our vision content ,home event  content , description and hero image of all the pages 
 
 
 General Config File 
@@ -319,11 +320,10 @@ Hero image of all Pages Config File
 .. _Member List : https://nyefpokhara.org/admin/index/member
 .. _Member request : https://nyefpokhara.org/admin/index/memberrequest/
 .. _Add Blog Category : https://nyefpokhara.org/admin/index/category/
-.. _Add Blog Category Form  : https://nyefpokhara.org/admin/index/category/add/
-.. _config   : https://nyefpokhara.org/admin/constance/config/
-.. _Add Member  : https://nyefpokhara.org/admin/index/member/add/
-
-.. _Filter Blog Comment   :https://nyefpokhara.org/admin/index/blogscomment/
+.. _Add Blog Category Form : https://nyefpokhara.org/admin/index/category/add/
+.. _config : https://nyefpokhara.org/admin/constance/config/
+.. _Add Membe : https://nyefpokhara.org/admin/index/member/add/
+.. _Filter Blog Commen :https://nyefpokhara.org/admin/index/blogscomment/
 
 .. _Add   : https://nyefpokhara.org/admin/index/category/
 .. _Add   : https://nyefpokhara.org/admin/index/category/
