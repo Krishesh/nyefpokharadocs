@@ -16,7 +16,7 @@ To create user there you should be super admin first
     :alt: Login page
     :target: https://www.nyefpokhara.org/admin
     :class: with-shadow
-    :scale: 50
+    
 
 2. go to `Create User`_
 
@@ -24,7 +24,7 @@ To create user there you should be super admin first
     :alt: Create User
     :target: https://www.nyefpokhara.org/admin/auth/user/add/
     :class: with-shadow
-    :scale: 10
+    
 
 3. Fill the Form (username/email and password) and save the user
 
@@ -34,7 +34,7 @@ To create user there you should be super admin first
     :alt: Create User
     :target:  https://nyefpokhara.org/admin/index/member
     :class: with-shadow
-    :scale: 10
+   
 
 
 5. search the member you want to claim
@@ -46,7 +46,7 @@ To create user there you should be super admin first
     :alt: Create User
     :target: https://nyefpokhara.org/admin/index/member
     :class: with-shadow
-    :scale: 10
+    
     
 
 
