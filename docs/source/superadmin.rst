@@ -35,7 +35,7 @@ To create user there you should be super admin first
 
 
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/search_user_profile.png
-    :alt: Create User
+    :alt: search user profile
     :target:  https://nyefpokhara.org/admin/index/member
     :scale: 100%
     :align: center
@@ -49,7 +49,7 @@ To create user there you should be super admin first
 
 
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/change_member_profile_id_and_save.png
-    :alt: Create User
+    :alt: change member profile id  
     :target: https://nyefpokhara.org/admin/index/member
     :scale: 100%
     :align: center
@@ -63,16 +63,46 @@ Check Member Id Request
 
 
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/member_request.png
-    :alt: Create User
-    :target: https://nyefpokhara.org/admin/index/member
+    :alt: Member request User
+    :target: https://nyefpokhara.org/admin/index/memberrequest/
     :scale: 100%
     :align: center
     
  
+ 
 2. change the status and follow the  :ref:`create_user`
 
 
+Add Blog Category
+-----------------
 
+
+1. go to `Add Blog Category`_
+
+2. Click ADD BLOG CATEGORY or go to `Add Blog Category Form`_
+
+3. Enter Title and set Visibility and Save it
+
+
+
+General Config File 
+------------------
+
+
+1. go to `config`_
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
+    :alt: General Config Image
+    :target:  https://nyefpokhara.org/admin/constance/config/
+    :scale: 100%
+    :align: center
+    
+ 
+
+2. Change the General Data in the Form 
+
+3. Save It
 
 
 
@@ -81,6 +111,26 @@ Check Member Id Request
 .. _User Login : https://www.nyefpokhara.org/admin/auth/user/add/
 .. _Member List : https://nyefpokhara.org/admin/index/member
 .. _Member request : https://nyefpokhara.org/admin/index/memberrequest/
+.. _Add Blog Category : https://nyefpokhara.org/admin/index/category/
+.. _Add Blog Category Form  : https://nyefpokhara.org/admin/index/category/add/
+.. _config   : https://nyefpokhara.org/admin/constance/config/
+
+.. _Add   : https://nyefpokhara.org/admin/index/category/
+.. _Add   : https://nyefpokhara.org/admin/index/category/
+.. _Add   : https://nyefpokhara.org/admin/index/category/
+.. _Add   : https://nyefpokhara.org/admin/index/category/
+.. _Add   : https://nyefpokhara.org/admin/index/category/
+.. _Add   : https://nyefpokhara.org/admin/index/category/
+.. _Add   : https://nyefpokhara.org/admin/index/category/
+
+
+
+
+
+
+
+
+
 
 
 
