@@ -15,7 +15,6 @@ To create user there you should be super admin first
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/nyefpokhara_admin_login.jpg 
     :alt: Login page
     :target: https://www.nyefpokhara.org/admin
-
     :scale: 500
     :align: center
     
@@ -25,7 +24,6 @@ To create user there you should be super admin first
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/create_user_profile.jpg
     :alt: Create User
     :target: https://www.nyefpokhara.org/admin/auth/user/add/
-
     :scale: 100
     :align: center
 
@@ -38,7 +36,6 @@ To create user there you should be super admin first
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/search_user_profile.png
     :alt: Create User
     :target:  https://nyefpokhara.org/admin/index/member
-   
     :scale: 100
     :align: center
 
@@ -52,9 +49,8 @@ To create user there you should be super admin first
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/change_member_profile_id_and_save.png
     :alt: Create User
     :target: https://nyefpokhara.org/admin/index/member
- 
     :scale: 100
-     :align: center
+    :align: center
     
 
 
