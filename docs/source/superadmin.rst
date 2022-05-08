@@ -85,6 +85,55 @@ Create Member Profile
 
 2. Fill the form with User Data and Save it
 
+NGC members Profile
+-----------------------
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/ngc_member.png
+    :alt: General Config Image
+    :target: https://nyefpokhara.org/admin/index/member/add/
+    :scale: 100%
+    :align: center
+    
+    
+Note: please use NGC member Sort for arranging the list of ngc members
+
+
+Sort NGC Members
+^^^^^^^^^^^^^^^^^^^
+
+1. GO to  `NGC List`_ and 
+
+2. Edit the NGC member Sort  Note" Please Be Careful with the sort number so that the members will me shown in the page according to the sort list"
+
+3. Save
+
+
+Add New NGC Members
+^^^^^^^^^^^^^^^^^^^
+
+1. GO to  `NGC List`_ and ADD MEMBER `NGC Member`_
+
+
+2. Fill the form with User Data and Save it
+
+
+Edit New NGC Members
+^^^^^^^^^^^^^^^^^^^
+
+1. GO to  `NGC List`_ and Select MEMBER 
+
+
+2. Edit the form with User Data and Save it 
+
+
+Delete New NGC Members
+^^^^^^^^^^^^^^^^^^^
+
+1 GO to  `NGC List`_ and Select MEMBER 
+
+
+2. Delete the member and arrange the NGC  member Sort Order  
+
 
 Add Blog Category
 -----------------
@@ -115,6 +164,90 @@ Filter Blog Comment
 3. Save it
 
 
+Program and Activities 
+-----------------------
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/program.png
+    :alt: Program And Activities
+    :target: https://nyefpokhara.org/admin/index/our_programs/
+    :scale: 100%
+    :align: center
+    
+    
+Note: please make the program visible so that it can be shown in the page
+
+Add New Program and Activities
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+1. Go To `Our Program`_ and click `ADD OUR PROGRAM`_
+
+
+2. Fill the our program form and save it
+
+
+Edit Our Program And Activities
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+1. Go To `Our Program`_ and Selct the program you want to edit
+
+
+2. Fill the our program form with edited data  and save it
+
+
+Delete Our Program And Activities
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+1. Go To `Our Program`_ and Selct the program you want to delete
+
+
+2. Choose Delete Action And click ok
+
+
+Events and Gallery
+-----------------------
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/event.png
+    :alt: Event and Gallery
+    :target: https://nyefpokhara.org/admin/index/event
+    :scale: 100 %
+    :align: center
+    
+    
+Note: please make the Event Add Gallery visible so that it can be shown in the page
+
+
+Add New Event And Gallery
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+1. Go To `Event and Gallery`_ and click `ADD Event and Gallery`_
+
+
+2. Fill the event Data form and save it
+
+
+Edit Event And Gallery
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+1. Go To `Event and Gallery`_ and Select the event you want to Edit 
+
+
+2. Fill the event Data form with new data and save it
+
+
+Delete Event And Gallery
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+1. Go To `Event and Gallery`_ and Select the event you want to Delete 
+
+
+2.Select the Delete action and click ok
+
 
 CONFIG FILE
 -----------------
@@ -141,8 +274,6 @@ General Config File
 2. Change the General Data in the Form 
 
 3. Save It
-
-
 
 
 Get in touch Config File 
@@ -324,10 +455,11 @@ Hero image of all Pages Config File
 .. _config : https://nyefpokhara.org/admin/constance/config/
 .. _Add Membe : https://nyefpokhara.org/admin/index/member/add/
 .. _Filter Blog Commen :https://nyefpokhara.org/admin/index/blogscomment/
+.. _Our Program :https://nyefpokhara.org/admin/index/our_programs/
+.. _ADD OUR PROGRAM :https://nyefpokhara.org/admin/index/our_programs/add/
+.. _Event and Gallery : https://nyefpokhara.org/admin/index/event/
+.. _Add Event and Gallery : https://nyefpokhara.org/admin/index/event/add/
 
-.. _Add   : https://nyefpokhara.org/admin/index/category/
-.. _Add   : https://nyefpokhara.org/admin/index/category/
-.. _Add   : https://nyefpokhara.org/admin/index/category/
 .. _Add   : https://nyefpokhara.org/admin/index/category/
 .. _Add   : https://nyefpokhara.org/admin/index/category/
 
