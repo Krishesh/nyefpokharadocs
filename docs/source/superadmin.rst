@@ -39,8 +39,8 @@ To create user there you should be super admin first
     :alt: Create User
     :target:  https://nyefpokhara.org/admin/index/member
     :class: with-shadow
-       :scale: 100
-   :align: center
+    :scale: 100
+    :align: center
 
 
 5. search the member you want to claim
