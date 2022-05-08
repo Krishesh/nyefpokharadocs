@@ -86,7 +86,7 @@ Add Blog Category
 
 
 General Config File 
-------------------------------------
+^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `config`_
@@ -114,7 +114,7 @@ Get in touch Config File
 1. go to `config`_
 
 
-2. scroll nad ho to Get in Touch Option
+2. scroll and go to Get in Touch Option
 
 
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
@@ -130,7 +130,7 @@ Get in touch Config File
 3. Save It
 
 
-NYEF POKHARA SOCIAL NETWORK Config File 
+NYEF Pokhara Social Network Config File 
 ------------------------------------------------------
 
 
