@@ -12,7 +12,7 @@ To create user there you should be super admin first
 Login as Super user to `User Login`_
 
 
-.. image:: /_static/images/superadmin/01.jpg
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/create_user_profile.jpg
     :alt: Login page
     :target: https://www.nyefpokhara.org/admin
     :class: with-shadow
@@ -20,7 +20,7 @@ Login as Super user to `User Login`_
 
 go to `Create User`_
 
-.. image:: _static/images/superadmin/02.jpg
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/nyefpokhara_admin_login.jpg
     :alt: Create User
     :target: https://www.nyefpokhara.org/admin/auth/user/add/
     :class: with-shadow
