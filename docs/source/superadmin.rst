@@ -62,7 +62,7 @@ Check Member Id Request
 1. Go to `Member request`_
 
 
-. image:: https://nyefpokhara.org/static/docs_image/superadmin/member_request.png
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/member_request.png
     :alt: Create User
     :target: https://nyefpokhara.org/admin/index/member
     :scale: 100%
