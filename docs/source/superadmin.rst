@@ -84,6 +84,11 @@ Add Blog Category
 3. Enter Title and set Visibility and Save it
 
 
+cONFIG FILE
+-----------------
+
+All the config file
+
 
 General Config File 
 ^^^^^^^^^^^^^^^^^^^
@@ -108,7 +113,7 @@ General Config File
 
 
 Get in touch Config File 
-------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 1. go to `config`_
