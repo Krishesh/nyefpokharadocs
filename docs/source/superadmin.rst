@@ -72,6 +72,19 @@ Check Member Id Request
  
 2. change the status and follow the  :ref:`create_user`
 
+Create Member Profile
+-----------------------
+
+1 GO to  `Member List`_ and ADD MEMBER `Add Member`_
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/change_member_profile_id_and_save.png
+    :alt: General Config Image
+    :target: https://nyefpokhara.org/admin/index/member/add/
+    :scale: 100%
+    :align: center
+
+2. Fill the form with User Data and Save it
+
 
 Add Blog Category
 -----------------
@@ -83,11 +96,30 @@ Add Blog Category
 
 3. Enter Title and set Visibility and Save it
 
+Filter Blog Comment
+-------------------
 
-cONFIG FILE
+
+1. go to `Filter Blog Comment`_
+
+
+.. image:: https://nyefpokhara.org/static/docs_image/superadmin/filter_blog_comment.png
+    :alt: Filter Blog Comment
+    :target: https://nyefpokhara.org/admin/index/member/add/
+    :scale: 100%
+    :align: center
+
+
+2. Click  BLOG Comment or Change The Visibility Not to Show in Website 
+
+3. Save it
+
+
+
+CONFIG FILE
 -----------------
 
-All the config file
+All the config file for Genral ooption 
 
 
 General Config File 
@@ -289,9 +321,10 @@ Hero image of all Pages Config File
 .. _Add Blog Category : https://nyefpokhara.org/admin/index/category/
 .. _Add Blog Category Form  : https://nyefpokhara.org/admin/index/category/add/
 .. _config   : https://nyefpokhara.org/admin/constance/config/
+.. _Add Member  : https://nyefpokhara.org/admin/index/member/add/
 
-.. _Add   : https://nyefpokhara.org/admin/index/category/
-.. _Add   : https://nyefpokhara.org/admin/index/category/
+.. _Filter Blog Comment   :https://nyefpokhara.org/admin/index/blogscomment/
+
 .. _Add   : https://nyefpokhara.org/admin/index/category/
 .. _Add   : https://nyefpokhara.org/admin/index/category/
 .. _Add   : https://nyefpokhara.org/admin/index/category/
