@@ -109,7 +109,7 @@ Note: please use NGC member Sort for arranging the list of ngc members
 Sort NGC Members
 ^^^^^^^^^^^^^^^^^^^
 
-1. GO to  `NGC List`_ and 
+1. Go to  `NGC List`_ and 
 
 2. Edit the NGC member Sort  Note" Please Be Careful with the sort number so that the members will me shown in the page according to the sort list"
 
@@ -119,7 +119,7 @@ Sort NGC Members
 Add New NGC Members
 ^^^^^^^^^^^^^^^^^^^
 
-1. GO to  `NGC List`_ and ADD MEMBER `NGC Member`_
+1. Go to  `NGC List`_ and ADD MEMBER `NGC Member`_
 
 
 2. Fill the form with User Data and Save it
@@ -128,7 +128,7 @@ Add New NGC Members
 Edit New NGC Members
 ^^^^^^^^^^^^^^^^^^^
 
-1. GO to  `NGC List`_ and Select MEMBER 
+1. Go to  `NGC List`_ and Select MEMBER 
 
 
 2. Edit the form with User Data and Save it 
@@ -137,8 +137,7 @@ Edit New NGC Members
 Delete New NGC Members
 ^^^^^^^^^^^^^^^^^^^
 
-1 GO to  `NGC List`_ and Select MEMBER 
-
+1. Go to  `NGC List`_ and Select MEMBER 
 
 2. Delete the member and arrange the NGC  member Sort Order  
 
@@ -170,8 +169,8 @@ Delete Image
 
 .. note::
 	
-	Dont Delete the image which are used aready by the model or other entity
-	eg. if a image is used in any events dont delete the image 
+	| Don't Delete the image which are used aready by the model or other entity
+	| eg. if a image is used in any events dont delete the image 
 	
 	
 
@@ -212,8 +211,8 @@ News and Media Coverage
 -----------------------
 
 .. note::
-		news tag = news  --> for news
-		news_tag = media_coverage --> for media coverage
+		| news tag = news  --> for news
+		| news_tag = media_coverage --> for media coverage
 
 Add new News or Media Coverage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -223,11 +222,9 @@ Add new News or Media Coverage
 2. Fill the form with news data and save it
 
 .. note::
-		news tag = news  --> for news
-		news_tag = media_coverage --> for media coverage
-		
-.. note::
-		to upload images go to :ref:`image`
+		| news tag = news  --> for news
+		| news_tag = media_coverage --> for media coverage
+		| to upload images go to :ref:`image`
 	
 		
 Edit  News or Media Coverage
@@ -238,12 +235,9 @@ Edit  News or Media Coverage
 2. Fill the form with edited news data and save it
 
 .. note::
-		news tag = news  --> for news
-		news_tag = media_coverage --> for media coverage
-		
-
-.. note::
-		to upload images go to :ref:`image`
+		| news tag = news  --> for news
+		| news_tag = media_coverage --> for media coverage
+		| to upload images go to :ref:`image`
 
 		
 
@@ -506,10 +500,7 @@ Hero image of all Pages Config File
 .. _News : https://nyefpokhara.org/admin/index/news/
 .. _ADD NEWS : https://nyefpokhara.org/admin/index/news/add/
 
-.. _Folders : https://nyefpokhara.org/admin/index/category/
-.. _Folders : https://nyefpokhara.org/admin/index/category/
-.. _Folders : https://nyefpokhara.org/admin/index/category/
-.. _Folders : https://nyefpokhara.org/admin/index/category/
+
 
 
 
