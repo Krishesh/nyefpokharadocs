@@ -77,8 +77,7 @@ Check Member Id Request
     :scale: 100%
     :align: center
     
- 
- 
+	
 2. change the status and follow the  :ref:`create_user`
 
 Create Member Profile
@@ -144,6 +143,38 @@ Delete New NGC Members
 2. Delete the member and arrange the NGC  member Sort Order  
 
 
+.. _image:
+
+Images/photos Content
+---------------------
+
+Images/photos of Event , Gallery , News, Media Coverage ,our program and testimonials 
+
+Upload Image
+^^^^^^^^^^^^
+
+1. go to `Filer`_ and to the `Folders`_ 
+
+2. Select the desire folder to upload the image (Event, News, Our Program, Testinominal)
+
+3. Drag and drop the image or click Upload Files to Upload the images
+
+Delete Image
+^^^^^^^^^^^^
+
+1. go to `Filer`_ and to the `Folders`_ 
+
+2. Select the desire folder to delete the image (Event, News, Our Program, Testinominal)
+
+3. select the desire Image and click delete button
+
+.. note::
+	
+	Dont Delete the image which are used aready by the model or other entity
+	eg. if a image is used in any events dont delete the image 
+	
+	
+
 Blog Content
 ------------
 
@@ -177,6 +208,55 @@ Filter Blog Comment
 3. Save it
 
 
+News and Media Coverage
+-----------------------
+
+.. note::
+		news tag = news  --> for news
+		news_tag = media_coverage --> for media coverage
+
+Add new News or Media Coverage
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Go to `News`_ and `ADD NEWS`_
+
+2. Fill the form with news data and save it
+
+.. note::
+		news tag = news  --> for news
+		news_tag = media_coverage --> for media coverage
+		
+.. note::
+		to upload images go to :ref:`image`
+	
+		
+Edit  News or Media Coverage
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Go to `News`_ and Select the news you want to edit
+
+2. Fill the form with edited news data and save it
+
+.. note::
+		news tag = news  --> for news
+		news_tag = media_coverage --> for media coverage
+		
+
+.. note::
+		to upload images go to :ref:`image`
+
+		
+
+Delete News or Media Coverage
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Go to `News`_ and select the news you want to delete
+
+2. select the action delete and press ok
+
+
+
+
 Program and Activities 
 -----------------------
 
@@ -187,7 +267,8 @@ Program and Activities
     :align: center
     
     
-Note: please make the program visible so that it can be shown in the page
+.. note:: 
+		please make the program visible so that it can be shown in the page
 
 Add New Program and Activities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -198,6 +279,10 @@ Add New Program and Activities
 
 2. Fill the our program form and save it
 
+.. note::
+		to upload images go to :ref:`image`
+
+
 
 Edit Our Program And Activities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -207,6 +292,10 @@ Edit Our Program And Activities
 
 
 2. Fill the our program form with edited data  and save it
+
+.. note::
+		to upload images go to :ref:`image`
+
 
 
 Delete Our Program And Activities
@@ -241,6 +330,10 @@ Add New Event And Gallery
 
 2. Fill the event Data form and save it
 
+.. note::
+		to upload images go to :ref:`image`
+
+
 
 Edit Event And Gallery
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -250,6 +343,10 @@ Edit Event And Gallery
 
 
 2. Fill the event Data form with new data and save it
+
+.. note::
+		to upload images go to :ref:`image`
+
 
 
 Delete Event And Gallery
@@ -473,8 +570,16 @@ Hero image of all Pages Config File
 .. _Event and Gallery : https://nyefpokhara.org/admin/index/event/
 .. _Add Event and Gallery : https://nyefpokhara.org/admin/index/event/add/
 
-.. _Add   : https://nyefpokhara.org/admin/index/category/
-.. _Add   : https://nyefpokhara.org/admin/index/category/
+.. _Filer : https://nyefpokhara.org/admin/filer/
+.. _Folders : https://nyefpokhara.org/admin/filer/folder/
+
+
+.. _Folders : https://nyefpokhara.org/admin/index/category/
+.. _Folders : https://nyefpokhara.org/admin/index/category/
+.. _Folders : https://nyefpokhara.org/admin/index/category/
+.. _Folders : https://nyefpokhara.org/admin/index/category/
+.. _Folders : https://nyefpokhara.org/admin/index/category/
+.. _Folders : https://nyefpokhara.org/admin/index/category/
 
 
 
