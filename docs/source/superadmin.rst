@@ -365,14 +365,6 @@ CONFIG FILE
 
 All the config file for Genral option ,get in touch,social media links, Cool facts , about us and our vision content ,home event  content , description and hero image of all the pages 
 
-
-General Config File 
-^^^^^^^^^^^^^^^^^^^
-
-
-1. go to `config`_
-
-
 .. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
     :alt: General Config Image
     :target:  https://nyefpokhara.org/admin/constance/config/
@@ -380,6 +372,13 @@ General Config File
     :align: center
     
  
+
+General Config File 
+^^^^^^^^^^^^^^^^^^^
+
+
+1. go to `config`_
+	
 
 2. Change the General Data in the Form 
 
@@ -395,18 +394,9 @@ Get in touch Config File
 
 2. scroll and go to Get in Touch Option
 
+3. Change the .Get in touch Data in the Form 
 
-.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
-    :alt: General Config Image
-    :target:  https://nyefpokhara.org/admin/constance/config/
-    :scale: 100%
-    :align: center
-    
- 
-
-2. Change the .Get in touch Data in the Form 
-
-3. Save It
+4. Save It
 
 
 NYEF Pokhara Social Network Config File 
@@ -417,18 +407,9 @@ NYEF Pokhara Social Network Config File
 
 2. Scrool and Go to C. NYEF social Network
 
+3. Change the NYEF social Network Data in the Form 
 
-.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
-    :alt: General Config Image
-    :target:  https://nyefpokhara.org/admin/constance/config/
-    :scale: 100%
-    :align: center
-    
- 
-
-2. Change the NYEF social Network Data in the Form 
-
-3. Save It
+4. Save It
 
 
 COOL FACTS Config File 
@@ -439,14 +420,6 @@ COOL FACTS Config File
 
 
 2. Scrool to D. Cool Facts 
-
-.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
-    :alt: General Config Image
-    :target:  https://nyefpokhara.org/admin/constance/config/
-    :scale: 100%
-    :align: center
-    
- 
 
 3. Change the Cool Facts  Data in the Form 
 
@@ -459,15 +432,6 @@ About Us Config File
 
 1. go to `config`_ and Scrool to E. About Us
 
-
-.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
-    :alt: General Config Image
-    :target:  https://nyefpokhara.org/admin/constance/config/
-    :scale: 100%
-    :align: center
-    
- 
-
 2. Change the About Us Data in the Form 
 
 3. Save It
@@ -478,15 +442,6 @@ Our Vision Config File
 
 
 1. go to `config`_ and Scrool to F. Our Vision
-
-
-.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
-    :alt: General Config Image
-    :target:  https://nyefpokhara.org/admin/constance/config/
-    :scale: 100%
-    :align: center
-    
- 
 
 2. Change the Our Vision Data in the Form 
 
@@ -501,14 +456,6 @@ HOME EVENT Config File
 1. go to `config`_ and  Scrool to G. HOME EVENT
 
 
-.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
-    :alt: General Config Image
-    :target:  https://nyefpokhara.org/admin/constance/config/
-    :scale: 100%
-    :align: center
-    
- 
-
 2. Change the .HOME EVENT Data in the Form 
 
 3. Save It
@@ -521,15 +468,6 @@ Description of all Pages Config File
 
 1. go to `config`_ and Scrool to I.Description of all Pages
 
-
-.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
-    :alt: General Config Image
-    :target:  https://nyefpokhara.org/admin/constance/config/
-    :scale: 100%
-    :align: center
-    
- 
-
 2. Change the Description of all Pages Data in the Form 
 
 3. Save It
@@ -541,13 +479,7 @@ Hero image of all Pages Config File
 
 1. go to `config`_ Scroll to  J. Hero image of all Pages 
 
-
-.. image:: https://nyefpokhara.org/static/docs_image/superadmin/general_config.png
-    :alt: General Config Image
-    :target:  https://nyefpokhara.org/admin/constance/config/
-    :scale: 100%
-    :align: center
-    
+  
  
 
 2. Change the Hero image of all Pages  Data in the Form 
@@ -569,13 +501,11 @@ Hero image of all Pages Config File
 .. _ADD OUR PROGRAM :https://nyefpokhara.org/admin/index/our_programs/add/
 .. _Event and Gallery : https://nyefpokhara.org/admin/index/event/
 .. _Add Event and Gallery : https://nyefpokhara.org/admin/index/event/add/
-
 .. _Filer : https://nyefpokhara.org/admin/filer/
 .. _Folders : https://nyefpokhara.org/admin/filer/folder/
+.. _News : https://nyefpokhara.org/admin/index/news/
+.. _ADD NEWS : https://nyefpokhara.org/admin/index/news/add/
 
-
-.. _Folders : https://nyefpokhara.org/admin/index/category/
-.. _Folders : https://nyefpokhara.org/admin/index/category/
 .. _Folders : https://nyefpokhara.org/admin/index/category/
 .. _Folders : https://nyefpokhara.org/admin/index/category/
 .. _Folders : https://nyefpokhara.org/admin/index/category/
