@@ -20,7 +20,7 @@ Login as Super user to `User Login`_
 
 go to `Create User`_
 
-.. image:: _static/images/superadmin/02.jpg
+.. image:: docs/image/02.jpg
     :alt: Create User
     :target: https://www.nyefpokhara.org/admin/auth/user/add/
     :class: with-shadow
