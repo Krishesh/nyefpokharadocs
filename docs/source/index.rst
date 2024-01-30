@@ -3,12 +3,14 @@ Welcome to NYEF POKHARA Documentation
 
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`super_users_docs` section for further information
 
 .. note::
 
-   This project is under active development.
+   | This project is under active development.
+   | Any querry about the site or the documentation please Contact `Krishesh Shrestha`_
+   
+
 
 Contents
 --------
@@ -16,5 +18,7 @@ Contents
 .. toctree::
 
     superadmin
-    usage
-    api
+    
+
+
+.. _Krishesh Shrestha : https://www.krisheshshrestha.com.np/
